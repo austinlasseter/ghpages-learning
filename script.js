@@ -1,3 +1,5 @@
-function myFunction() {
- document.getElementById("demo").innerHTML = "Paragraph changed.";
+function popup() {
+alert("Hello World")
+function display() {
+   alert("Hello World!");
 }
